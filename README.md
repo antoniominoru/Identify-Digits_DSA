@@ -14283,7 +14283,7 @@ a.anchor-link {
 <span class="kn">import</span> <span class="nn">warnings</span>
 <span class="n">warnings</span><span class="o">.</span><span class="n">filterwarnings</span><span class="p">(</span><span class="s1">&#39;ignore&#39;</span><span class="p">)</span>
 
-<span class="c1"># import dataset</span>
+<span class="c1"># Import dataset</span>
 <span class="n">digitos</span> <span class="o">=</span> <span class="n">datasets</span><span class="o">.</span><span class="n">load_digits</span><span class="p">()</span>
 
 <span class="c1"># Split X and Y</span>
@@ -14466,7 +14466,7 @@ For k = 29, the accuracy is = 96.83%
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h4 id="Prevision-with-test-and-vaditaion-model">Prevision with test and vaditaion model<a class="anchor-link" href="#Prevision-with-test-and-vaditaion-model">&#182;</a></h4>
+<h4 id="Prevision-with-test-and-vaditation-model">Prevision with test and vaditation model<a class="anchor-link" href="#Prevision-with-test-and-vaditation-model">&#182;</a></h4>
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
